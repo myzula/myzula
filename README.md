@@ -38,7 +38,7 @@
 -->
 ###  My Stats :
 
-![BTW 's GitHub stats](https://github-readme-stats-r5-3600.vercel.app/api?username=myzula&include_all_commits=true&count_private=true&show_icons=true&theme=gradient&border_radius=50)
+![BTW 's GitHub stats](https://github-readme-stats-r5-3600.vercel.app/api?username=myzula&include_all_commits=true&count_private=true&show_icons=true&theme=gradient&border_radius=0)
 
 
 ---
