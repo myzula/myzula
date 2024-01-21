@@ -28,3 +28,17 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<!-- PART4-->
+
+---
+
+<!--
+![Github stats 1](https://github-readme-stats.vercel.app/api?username=emreduman3146&show_icons=true&theme=gradient) radical
+-->
+###  My Stats :
+
+![BTW 's GitHub stats](https://github-readme-stats-r5-3600.vercel.app/api?username=myzula&include_all_commits=true&count_private=true&show_icons=true&theme=radical&border_radius=50)
+
+
+---
