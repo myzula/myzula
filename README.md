@@ -42,3 +42,11 @@
 
 
 ---
+
+###  Languages and Tools :
+
+<div>
+       <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <im
